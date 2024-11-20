@@ -21,7 +21,7 @@ http://localhost:8000 にアクセス
 
 
 開発の開始と終了
-開始：
-docker compose up
-終了：
-docker compose down
+開始：  
+docker compose up  
+終了：  
+docker compose down  
